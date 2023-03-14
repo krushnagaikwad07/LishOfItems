@@ -1,7 +1,18 @@
 .App {
   text-align: center;
+  border: 2px solid black;
+  background-color: rgb(245, 230, 220);
+  width: fit-content;
+  padding: auto;
+  margin: auto;
+  margin-top: 250px;
+  border-radius: 7px;
+  box-shadow: 3px #282c34;
 }
 
+body{
+  background-color: #61dafb;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
